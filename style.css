@@ -7,8 +7,7 @@ body {
 }
 .cabecalho {
     background-color: #ffffff;
-    color: rgb(0
-    , 0, 0);
+    color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
     align-items: center;
