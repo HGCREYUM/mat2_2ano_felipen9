@@ -11,7 +11,7 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 10px 0;
+    padding: 24px 0;
 }
 
 .cabecalho-imagem{
@@ -21,7 +21,7 @@ body {
 .cabecalho-lista-item{
     display: inline-block;
     margin: 0 20px;
-    font-size: 10px;
+    font-size: 16px;
 }
 
 .escola-imagem{
@@ -34,7 +34,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 10px 0;
+    padding: 24px 0;
 }
 
 .escola-div-conteudo{
@@ -43,26 +43,22 @@ body {
 
 
 .escola-titulo{
-    padding: 10px 0;
+    padding: 24px 0;
 }
 
 .estudante{
-    padding: 10px 0;
+    padding: 24px 0;
 }
 .estudante-imagem{
-    width: 100px;
+    width: 120px;
 }
 
 .estudante-icone{
-    width: 10px;
+    width: 24px;
     padding: 4px 8px;
 }
 
 .estudante-div{
     text-align: center;
-    padding: 20px 0;
-}
-.rodape-imagem{
-    height: 60px;
-    padding: 12px 0;
+    padding: 16px 0;
 }
